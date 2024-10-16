@@ -14,6 +14,7 @@
 7. You will see the number of skipped, passing and failing tests.
 
 ---
+---
 
 ### Test scripts
 
