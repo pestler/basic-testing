@@ -1,4 +1,3 @@
-// Uncomment the code below and write your tests
 import { readFileAsynchronously, doStuffByTimeout, doStuffByInterval } from '.';
 import path from 'node:path';
 import fs from 'node:fs';
